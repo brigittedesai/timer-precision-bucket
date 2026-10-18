@@ -1,6 +1,6 @@
 {
   "name": "timer-precision-bucket",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Groups elapsed milliseconds into buckets aligned to a configurable interval so that percentile calculations can be performed over a rolling window.",
   "type": "module",
   "main": "src/index.js",
